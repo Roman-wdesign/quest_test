@@ -2,6 +2,10 @@
 
 Клонируем в командной строке через git clone, устанавливаем зависимости 
 
+{% hint style="info" %}
+Yandex.vue
+{% endhint %}
+
 
 
 ```text
